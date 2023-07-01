@@ -1,0 +1,21 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.parents{
+  border: solid 2px red;
+  height: 300px;
+  width: 90%;
+  text-align: center;
+  position: relative;
+  padding: 10px;
+}
+.enfants{
+  border: solid 2px wheat;
+  height: 150px;
+  width: 40%;
+  position: absolute;
+  padding: 10px;
+  bottom: 5px;
+  right: 5px;
+}
